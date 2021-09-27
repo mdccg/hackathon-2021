@@ -1,0 +1,66 @@
+[
+  {
+    "Mês": "Fevereiro",
+    "Doses Recebidas": "2752699",
+    "Dose 1": "1615129",
+    "Dose 2": "370361",
+    "Dose única": "0",
+    "% População Vacinada": "8.001.001.008.158.830"
+  },
+  {
+    "Mês": "Março",
+    "Doses Recebidas": "2752720",
+    "Dose 1": "1932734",
+    "Dose 2": "543102",
+    "Dose única": "0",
+    "% População Vacinada": "11.732.767.892.767.000"
+  },
+  {
+    "Mês": "Abril",
+    "Doses Recebidas": "7268327",
+    "Dose 1": "4668107",
+    "Dose 2": "1577181",
+    "Dose única": "0",
+    "% População Vacinada": "34.072.234.309.360.200"
+  },
+  {
+    "Mês": "Maio",
+    "Doses Recebidas": "12066250",
+    "Dose 1": "7290646",
+    "Dose 2": "4206703",
+    "Dose única": "0",
+    "% População Vacinada": "9.087.845.357.374.230"
+  },
+  {
+    "Mês": "Junho",
+    "Doses Recebidas": "19612868",
+    "Dose 1": "11256991",
+    "Dose 2": "5530044",
+    "Dose única": "0",
+    "% População Vacinada": "11.946.691.908.479.200"
+  },
+  {
+    "Mês": "Julho",
+    "Doses Recebidas": "27133473",
+    "Dose 1": "18855249",
+    "Dose 2": "5936849",
+    "Dose única": "212320",
+    "% População Vacinada": "13.284.203.079.789.400"
+  },
+  {
+    "Mês": "Agosto",
+    "Doses Recebidas": "38370398",
+    "Dose 1": "26280296",
+    "Dose 2": "9117881",
+    "Dose única": "1091698",
+    "% População Vacinada": "22.056.008.022.409.800"
+  },
+  {
+    "Mês": "Setembro",
+    "Doses Recebidas": "62990578",
+    "Dose 1": "36146666",
+    "Dose 2": "22802835",
+    "Dose única": "1153814",
+    "% População Vacinada": "51.754.146.036.193.600"
+  }
+]

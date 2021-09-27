@@ -1,0 +1,792 @@
+[
+  {
+    "Município": "Água Clara",
+    "Total Doses Enviadas": "19.763",
+    "Doses Aplicadas (D1)": "12.106",
+    "Doses Aplicadas (D2)": "5.307",
+    "Doses Aplicadas (D3)": "284",
+    "Doses Aplicadas (DU)": "791",
+    "Total Doses Aplicadas": "18.488",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "93,55%"
+  },
+  {
+    "Município": "Alcinópolis",
+    "Total Doses Enviadas": "6.607",
+    "Doses Aplicadas (D1)": "3.672",
+    "Doses Aplicadas (D2)": "2.635",
+    "Doses Aplicadas (D3)": "156",
+    "Doses Aplicadas (DU)": "299",
+    "Total Doses Aplicadas": "6.762",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "102,35%"
+  },
+  {
+    "Município": "Amambai",
+    "Total Doses Enviadas": "51.603",
+    "Doses Aplicadas (D1)": "25.690",
+    "Doses Aplicadas (D2)": "19.207",
+    "Doses Aplicadas (D3)": "1.059",
+    "Doses Aplicadas (DU)": "2.197",
+    "Total Doses Aplicadas": "48.153",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "93,31%"
+  },
+  {
+    "Município": "Anastácio",
+    "Total Doses Enviadas": "30.230",
+    "Doses Aplicadas (D1)": "16.059",
+    "Doses Aplicadas (D2)": "11.154",
+    "Doses Aplicadas (D3)": "544",
+    "Doses Aplicadas (DU)": "1.162",
+    "Total Doses Aplicadas": "28.919",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "95,66%"
+  },
+  {
+    "Município": "Anaurilândia",
+    "Total Doses Enviadas": "11.549",
+    "Doses Aplicadas (D1)": "5.942",
+    "Doses Aplicadas (D2)": "3.832",
+    "Doses Aplicadas (D3)": "401",
+    "Doses Aplicadas (DU)": "463",
+    "Total Doses Aplicadas": "10.638",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "92,11%"
+  },
+  {
+    "Município": "Angélica",
+    "Total Doses Enviadas": "14.379",
+    "Doses Aplicadas (D1)": "8.292",
+    "Doses Aplicadas (D2)": "5.144",
+    "Doses Aplicadas (D3)": "252",
+    "Doses Aplicadas (DU)": "650",
+    "Total Doses Aplicadas": "14.338",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "99,71%"
+  },
+  {
+    "Município": "Antônio João",
+    "Total Doses Enviadas": "11.802",
+    "Doses Aplicadas (D1)": "5.568",
+    "Doses Aplicadas (D2)": "4.018",
+    "Doses Aplicadas (D3)": "165",
+    "Doses Aplicadas (DU)": "2.336",
+    "Total Doses Aplicadas": "12.087",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "102,41%"
+  },
+  {
+    "Município": "Aparecida do Taboado",
+    "Total Doses Enviadas": "35.480",
+    "Doses Aplicadas (D1)": "20.595",
+    "Doses Aplicadas (D2)": "11.491",
+    "Doses Aplicadas (D3)": "529",
+    "Doses Aplicadas (DU)": "1.281",
+    "Total Doses Aplicadas": "33.896",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "95,54%"
+  },
+  {
+    "Município": "Aquidauana",
+    "Total Doses Enviadas": "68.278",
+    "Doses Aplicadas (D1)": "33.467",
+    "Doses Aplicadas (D2)": "24.868",
+    "Doses Aplicadas (D3)": "1.937",
+    "Doses Aplicadas (DU)": "2.470",
+    "Total Doses Aplicadas": "62.742",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "91,89%"
+  },
+  {
+    "Município": "Aral Moreira",
+    "Total Doses Enviadas": "12.750",
+    "Doses Aplicadas (D1)": "5.728",
+    "Doses Aplicadas (D2)": "4.286",
+    "Doses Aplicadas (D3)": "380",
+    "Doses Aplicadas (DU)": "2.573",
+    "Total Doses Aplicadas": "12.967",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "101,70%"
+  },
+  {
+    "Município": "Bandeirantes",
+    "Total Doses Enviadas": "10.732",
+    "Doses Aplicadas (D1)": "5.476",
+    "Doses Aplicadas (D2)": "3.130",
+    "Doses Aplicadas (D3)": "87",
+    "Doses Aplicadas (DU)": "350",
+    "Total Doses Aplicadas": "9.043",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "84,26%"
+  },
+  {
+    "Município": "Bataguassu",
+    "Total Doses Enviadas": "30.455",
+    "Doses Aplicadas (D1)": "17.160",
+    "Doses Aplicadas (D2)": "11.132",
+    "Doses Aplicadas (D3)": "702",
+    "Doses Aplicadas (DU)": "1.188",
+    "Total Doses Aplicadas": "30.182",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "99,10%"
+  },
+  {
+    "Município": "Batayporã",
+    "Total Doses Enviadas": "13.279",
+    "Doses Aplicadas (D1)": "7.849",
+    "Doses Aplicadas (D2)": "5.263",
+    "Doses Aplicadas (D3)": "294",
+    "Doses Aplicadas (DU)": "603",
+    "Total Doses Aplicadas": "14.009",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "105,50%"
+  },
+  {
+    "Município": "Bela Vista",
+    "Total Doses Enviadas": "28.440",
+    "Doses Aplicadas (D1)": "11.934",
+    "Doses Aplicadas (D2)": "8.639",
+    "Doses Aplicadas (D3)": "630",
+    "Doses Aplicadas (DU)": "6.448",
+    "Total Doses Aplicadas": "27.651",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "97,23%"
+  },
+  {
+    "Município": "Bodoquena",
+    "Total Doses Enviadas": "10.406",
+    "Doses Aplicadas (D1)": "5.675",
+    "Doses Aplicadas (D2)": "3.600",
+    "Doses Aplicadas (D3)": "268",
+    "Doses Aplicadas (DU)": "420",
+    "Total Doses Aplicadas": "9.963",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "95,74%"
+  },
+  {
+    "Município": "Bonito",
+    "Total Doses Enviadas": "28.743",
+    "Doses Aplicadas (D1)": "16.090",
+    "Doses Aplicadas (D2)": "9.648",
+    "Doses Aplicadas (D3)": "838",
+    "Doses Aplicadas (DU)": "1.537",
+    "Total Doses Aplicadas": "28.113",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "97,81%"
+  },
+  {
+    "Município": "Brasilândia",
+    "Total Doses Enviadas": "15.851",
+    "Doses Aplicadas (D1)": "8.912",
+    "Doses Aplicadas (D2)": "6.149",
+    "Doses Aplicadas (D3)": "489",
+    "Doses Aplicadas (DU)": "600",
+    "Total Doses Aplicadas": "16.150",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "101,89%"
+  },
+  {
+    "Município": "Caarapó",
+    "Total Doses Enviadas": "37.983",
+    "Doses Aplicadas (D1)": "20.426",
+    "Doses Aplicadas (D2)": "15.048",
+    "Doses Aplicadas (D3)": "801",
+    "Doses Aplicadas (DU)": "2.571",
+    "Total Doses Aplicadas": "38.846",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "102,27%"
+  },
+  {
+    "Município": "Camapuã",
+    "Total Doses Enviadas": "19.884",
+    "Doses Aplicadas (D1)": "10.695",
+    "Doses Aplicadas (D2)": "7.637",
+    "Doses Aplicadas (D3)": "761",
+    "Doses Aplicadas (DU)": "676",
+    "Total Doses Aplicadas": "19.769",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "99,42%"
+  },
+  {
+    "Município": "Campo Grande",
+    "Total Doses Enviadas": "1.226.068",
+    "Doses Aplicadas (D1)": "634.153",
+    "Doses Aplicadas (D2)": "451.400",
+    "Doses Aplicadas (D3)": "35.278",
+    "Doses Aplicadas (DU)": "45.549",
+    "Total Doses Aplicadas": "1.166.380",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "95,13%"
+  },
+  {
+    "Município": "Caracol",
+    "Total Doses Enviadas": "6.788",
+    "Doses Aplicadas (D1)": "2.744",
+    "Doses Aplicadas (D2)": "2.111",
+    "Doses Aplicadas (D3)": "221",
+    "Doses Aplicadas (DU)": "1.682",
+    "Total Doses Aplicadas": "6.758",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "99,56%"
+  },
+  {
+    "Município": "Cassilândia",
+    "Total Doses Enviadas": "30.460",
+    "Doses Aplicadas (D1)": "16.967",
+    "Doses Aplicadas (D2)": "12.623",
+    "Doses Aplicadas (D3)": "1.434",
+    "Doses Aplicadas (DU)": "1.138",
+    "Total Doses Aplicadas": "32.162",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "105,59%"
+  },
+  {
+    "Município": "Chapadão do Sul",
+    "Total Doses Enviadas": "37.661",
+    "Doses Aplicadas (D1)": "21.629",
+    "Doses Aplicadas (D2)": "12.225",
+    "Doses Aplicadas (D3)": "561",
+    "Doses Aplicadas (DU)": "3.112",
+    "Total Doses Aplicadas": "37.527",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "99,64%"
+  },
+  {
+    "Município": "Corguinho",
+    "Total Doses Enviadas": "7.168",
+    "Doses Aplicadas (D1)": "3.826",
+    "Doses Aplicadas (D2)": "2.396",
+    "Doses Aplicadas (D3)": "193",
+    "Doses Aplicadas (DU)": "285",
+    "Total Doses Aplicadas": "6.700",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "93,47%"
+  },
+  {
+    "Município": "Coronel Sapucaia",
+    "Total Doses Enviadas": "18.129",
+    "Doses Aplicadas (D1)": "8.822",
+    "Doses Aplicadas (D2)": "6.104",
+    "Doses Aplicadas (D3)": "240",
+    "Doses Aplicadas (DU)": "1.463",
+    "Total Doses Aplicadas": "16.629",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "91,73%"
+  },
+  {
+    "Município": "Corumbá",
+    "Total Doses Enviadas": "126.367",
+    "Doses Aplicadas (D1)": "52.617",
+    "Doses Aplicadas (D2)": "41.446",
+    "Doses Aplicadas (D3)": "4.616",
+    "Doses Aplicadas (DU)": "26.397",
+    "Total Doses Aplicadas": "125.076",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "98,98%"
+  },
+  {
+    "Município": "Costa Rica",
+    "Total Doses Enviadas": "32.538",
+    "Doses Aplicadas (D1)": "17.796",
+    "Doses Aplicadas (D2)": "11.093",
+    "Doses Aplicadas (D3)": "537",
+    "Doses Aplicadas (DU)": "2.674",
+    "Total Doses Aplicadas": "32.100",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "98,65%"
+  },
+  {
+    "Município": "Coxim",
+    "Total Doses Enviadas": "45.706",
+    "Doses Aplicadas (D1)": "24.719",
+    "Doses Aplicadas (D2)": "15.573",
+    "Doses Aplicadas (D3)": "1.094",
+    "Doses Aplicadas (DU)": "1.906",
+    "Total Doses Aplicadas": "43.292",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "94,72%"
+  },
+  {
+    "Município": "Deodápolis",
+    "Total Doses Enviadas": "17.302",
+    "Doses Aplicadas (D1)": "9.665",
+    "Doses Aplicadas (D2)": "6.198",
+    "Doses Aplicadas (D3)": "370",
+    "Doses Aplicadas (DU)": "636",
+    "Total Doses Aplicadas": "16.869",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "97,50%"
+  },
+  {
+    "Município": "Dois Irmãos do Buriti",
+    "Total Doses Enviadas": "15.747",
+    "Doses Aplicadas (D1)": "7.822",
+    "Doses Aplicadas (D2)": "6.326",
+    "Doses Aplicadas (D3)": "413",
+    "Doses Aplicadas (DU)": "606",
+    "Total Doses Aplicadas": "15.167",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "96,32%"
+  },
+  {
+    "Município": "Douradina",
+    "Total Doses Enviadas": "7.248",
+    "Doses Aplicadas (D1)": "3.924",
+    "Doses Aplicadas (D2)": "3.191",
+    "Doses Aplicadas (D3)": "323",
+    "Doses Aplicadas (DU)": "320",
+    "Total Doses Aplicadas": "7.758",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "107,04%"
+  },
+  {
+    "Município": "Dourados",
+    "Total Doses Enviadas": "318.976",
+    "Doses Aplicadas (D1)": "166.337",
+    "Doses Aplicadas (D2)": "99.349",
+    "Doses Aplicadas (D3)": "3.005",
+    "Doses Aplicadas (DU)": "13.462",
+    "Total Doses Aplicadas": "282.153",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "88,46%"
+  },
+  {
+    "Município": "Eldorado",
+    "Total Doses Enviadas": "15.649",
+    "Doses Aplicadas (D1)": "8.104",
+    "Doses Aplicadas (D2)": "5.101",
+    "Doses Aplicadas (D3)": "148",
+    "Doses Aplicadas (DU)": "859",
+    "Total Doses Aplicadas": "14.212",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "90,82%"
+  },
+  {
+    "Município": "Fátima do Sul",
+    "Total Doses Enviadas": "30.321",
+    "Doses Aplicadas (D1)": "16.094",
+    "Doses Aplicadas (D2)": "11.964",
+    "Doses Aplicadas (D3)": "1.201",
+    "Doses Aplicadas (DU)": "903",
+    "Total Doses Aplicadas": "30.162",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "99,48%"
+  },
+  {
+    "Município": "Figueirão",
+    "Total Doses Enviadas": "3.999",
+    "Doses Aplicadas (D1)": "2.450",
+    "Doses Aplicadas (D2)": "1.505",
+    "Doses Aplicadas (D3)": "97",
+    "Doses Aplicadas (DU)": "158",
+    "Total Doses Aplicadas": "4.210",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "105,28%"
+  },
+  {
+    "Município": "Glória de Dourados",
+    "Total Doses Enviadas": "13.360",
+    "Doses Aplicadas (D1)": "7.550",
+    "Doses Aplicadas (D2)": "5.334",
+    "Doses Aplicadas (D3)": "463",
+    "Doses Aplicadas (DU)": "536",
+    "Total Doses Aplicadas": "13.883",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "103,91%"
+  },
+  {
+    "Município": "Guia Lopes da Laguna",
+    "Total Doses Enviadas": "12.969",
+    "Doses Aplicadas (D1)": "6.945",
+    "Doses Aplicadas (D2)": "4.609",
+    "Doses Aplicadas (D3)": "439",
+    "Doses Aplicadas (DU)": "448",
+    "Total Doses Aplicadas": "12.441",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "95,93%"
+  },
+  {
+    "Município": "Iguatemi",
+    "Total Doses Enviadas": "18.453",
+    "Doses Aplicadas (D1)": "10.004",
+    "Doses Aplicadas (D2)": "6.924",
+    "Doses Aplicadas (D3)": "135",
+    "Doses Aplicadas (DU)": "1.090",
+    "Total Doses Aplicadas": "18.153",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "98,37%"
+  },
+  {
+    "Município": "Inocência",
+    "Total Doses Enviadas": "11.420",
+    "Doses Aplicadas (D1)": "6.303",
+    "Doses Aplicadas (D2)": "4.285",
+    "Doses Aplicadas (D3)": "570",
+    "Doses Aplicadas (DU)": "411",
+    "Total Doses Aplicadas": "11.569",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "101,30%"
+  },
+  {
+    "Município": "Itaporã",
+    "Total Doses Enviadas": "25.138",
+    "Doses Aplicadas (D1)": "12.819",
+    "Doses Aplicadas (D2)": "9.711",
+    "Doses Aplicadas (D3)": "946",
+    "Doses Aplicadas (DU)": "1.134",
+    "Total Doses Aplicadas": "24.610",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "97,90%"
+  },
+  {
+    "Município": "Itaquiraí",
+    "Total Doses Enviadas": "24.269",
+    "Doses Aplicadas (D1)": "13.775",
+    "Doses Aplicadas (D2)": "9.015",
+    "Doses Aplicadas (D3)": "483",
+    "Doses Aplicadas (DU)": "1.037",
+    "Total Doses Aplicadas": "24.310",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "100,17%"
+  },
+  {
+    "Município": "Ivinhema",
+    "Total Doses Enviadas": "35.214",
+    "Doses Aplicadas (D1)": "20.156",
+    "Doses Aplicadas (D2)": "12.693",
+    "Doses Aplicadas (D3)": "494",
+    "Doses Aplicadas (DU)": "1.357",
+    "Total Doses Aplicadas": "34.700",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "98,54%"
+  },
+  {
+    "Município": "Japorã",
+    "Total Doses Enviadas": "10.970",
+    "Doses Aplicadas (D1)": "5.546",
+    "Doses Aplicadas (D2)": "4.944",
+    "Doses Aplicadas (D3)": "203",
+    "Doses Aplicadas (DU)": "402",
+    "Total Doses Aplicadas": "11.095",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "101,14%"
+  },
+  {
+    "Município": "Jaraguari",
+    "Total Doses Enviadas": "9.359",
+    "Doses Aplicadas (D1)": "4.796",
+    "Doses Aplicadas (D2)": "3.576",
+    "Doses Aplicadas (D3)": "419",
+    "Doses Aplicadas (DU)": "331",
+    "Total Doses Aplicadas": "9.122",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "97,47%"
+  },
+  {
+    "Município": "Jardim",
+    "Total Doses Enviadas": "31.348",
+    "Doses Aplicadas (D1)": "17.639",
+    "Doses Aplicadas (D2)": "11.784",
+    "Doses Aplicadas (D3)": "1.521",
+    "Doses Aplicadas (DU)": "1.746",
+    "Total Doses Aplicadas": "32.690",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "104,28%"
+  },
+  {
+    "Município": "Jateí",
+    "Total Doses Enviadas": "5.140",
+    "Doses Aplicadas (D1)": "3.242",
+    "Doses Aplicadas (D2)": "1.587",
+    "Doses Aplicadas (D3)": "135",
+    "Doses Aplicadas (DU)": "216",
+    "Total Doses Aplicadas": "5.180",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "100,78%"
+  },
+  {
+    "Município": "Juti",
+    "Total Doses Enviadas": "8.486",
+    "Doses Aplicadas (D1)": "4.979",
+    "Doses Aplicadas (D2)": "3.223",
+    "Doses Aplicadas (D3)": "269",
+    "Doses Aplicadas (DU)": "353",
+    "Total Doses Aplicadas": "8.824",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "103,98%"
+  },
+  {
+    "Município": "Ladário",
+    "Total Doses Enviadas": "23.516",
+    "Doses Aplicadas (D1)": "10.977",
+    "Doses Aplicadas (D2)": "7.725",
+    "Doses Aplicadas (D3)": "585",
+    "Doses Aplicadas (DU)": "4.176",
+    "Total Doses Aplicadas": "23.463",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "99,77%"
+  },
+  {
+    "Município": "Laguna Carapã",
+    "Total Doses Enviadas": "8.718",
+    "Doses Aplicadas (D1)": "4.449",
+    "Doses Aplicadas (D2)": "3.899",
+    "Doses Aplicadas (D3)": "246",
+    "Doses Aplicadas (DU)": "574",
+    "Total Doses Aplicadas": "9.168",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "105,16%"
+  },
+  {
+    "Município": "Maracaju",
+    "Total Doses Enviadas": "49.499",
+    "Doses Aplicadas (D1)": "26.871",
+    "Doses Aplicadas (D2)": "18.757",
+    "Doses Aplicadas (D3)": "1.057",
+    "Doses Aplicadas (DU)": "2.512",
+    "Total Doses Aplicadas": "49.197",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "99,39%"
+  },
+  {
+    "Município": "Miranda",
+    "Total Doses Enviadas": "36.148",
+    "Doses Aplicadas (D1)": "18.540",
+    "Doses Aplicadas (D2)": "13.342",
+    "Doses Aplicadas (D3)": "880",
+    "Doses Aplicadas (DU)": "1.326",
+    "Total Doses Aplicadas": "34.088",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "94,30%"
+  },
+  {
+    "Município": "Mundo Novo",
+    "Total Doses Enviadas": "23.314",
+    "Doses Aplicadas (D1)": "9.267",
+    "Doses Aplicadas (D2)": "6.956",
+    "Doses Aplicadas (D3)": "239",
+    "Doses Aplicadas (DU)": "6.660",
+    "Total Doses Aplicadas": "23.122",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "99,18%"
+  },
+  {
+    "Município": "Naviraí",
+    "Total Doses Enviadas": "59.909",
+    "Doses Aplicadas (D1)": "35.106",
+    "Doses Aplicadas (D2)": "18.763",
+    "Doses Aplicadas (D3)": "1.143",
+    "Doses Aplicadas (DU)": "3.031",
+    "Total Doses Aplicadas": "58.043",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "96,89%"
+  },
+  {
+    "Município": "Nioaque",
+    "Total Doses Enviadas": "18.449",
+    "Doses Aplicadas (D1)": "9.628",
+    "Doses Aplicadas (D2)": "6.770",
+    "Doses Aplicadas (D3)": "449",
+    "Doses Aplicadas (DU)": "653",
+    "Total Doses Aplicadas": "17.500",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "94,86%"
+  },
+  {
+    "Município": "Nova Alvorada do Sul",
+    "Total Doses Enviadas": "24.671",
+    "Doses Aplicadas (D1)": "13.734",
+    "Doses Aplicadas (D2)": "8.496",
+    "Doses Aplicadas (D3)": "498",
+    "Doses Aplicadas (DU)": "2.145",
+    "Total Doses Aplicadas": "24.873",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "100,82%"
+  },
+  {
+    "Município": "Nova Andradina",
+    "Total Doses Enviadas": "61.838",
+    "Doses Aplicadas (D1)": "35.311",
+    "Doses Aplicadas (D2)": "22.623",
+    "Doses Aplicadas (D3)": "941",
+    "Doses Aplicadas (DU)": "2.994",
+    "Total Doses Aplicadas": "61.869",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "100,05%"
+  },
+  {
+    "Município": "Novo Horizonte do Sul",
+    "Total Doses Enviadas": "6.143",
+    "Doses Aplicadas (D1)": "3.595",
+    "Doses Aplicadas (D2)": "2.119",
+    "Doses Aplicadas (D3)": "173",
+    "Doses Aplicadas (DU)": "170",
+    "Total Doses Aplicadas": "6.057",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "98,60%"
+  },
+  {
+    "Município": "Paraíso das Águas",
+    "Total Doses Enviadas": "6.958",
+    "Doses Aplicadas (D1)": "4.077",
+    "Doses Aplicadas (D2)": "2.626",
+    "Doses Aplicadas (D3)": "103",
+    "Doses Aplicadas (DU)": "298",
+    "Total Doses Aplicadas": "7.104",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "102,10%"
+  },
+  {
+    "Município": "Paranaíba",
+    "Total Doses Enviadas": "62.397",
+    "Doses Aplicadas (D1)": "37.298",
+    "Doses Aplicadas (D2)": "19.153",
+    "Doses Aplicadas (D3)": "1.814",
+    "Doses Aplicadas (DU)": "2.000",
+    "Total Doses Aplicadas": "60.265",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "96,58%"
+  },
+  {
+    "Município": "Paranhos",
+    "Total Doses Enviadas": "16.045",
+    "Doses Aplicadas (D1)": "7.665",
+    "Doses Aplicadas (D2)": "5.853",
+    "Doses Aplicadas (D3)": "251",
+    "Doses Aplicadas (DU)": "1.756",
+    "Total Doses Aplicadas": "15.525",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "96,76%"
+  },
+  {
+    "Município": "Pedro Gomes",
+    "Total Doses Enviadas": "10.265",
+    "Doses Aplicadas (D1)": "5.793",
+    "Doses Aplicadas (D2)": "4.473",
+    "Doses Aplicadas (D3)": "381",
+    "Doses Aplicadas (DU)": "421",
+    "Total Doses Aplicadas": "11.068",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "107,82%"
+  },
+  {
+    "Município": "Ponta Porã",
+    "Total Doses Enviadas": "116.738",
+    "Doses Aplicadas (D1)": "44.593",
+    "Doses Aplicadas (D2)": "30.598",
+    "Doses Aplicadas (D3)": "2.796",
+    "Doses Aplicadas (DU)": "39.011",
+    "Total Doses Aplicadas": "116.998",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "100,22%"
+  },
+  {
+    "Município": "Porto Murtinho",
+    "Total Doses Enviadas": "17.585",
+    "Doses Aplicadas (D1)": "7.964",
+    "Doses Aplicadas (D2)": "6.084",
+    "Doses Aplicadas (D3)": "384",
+    "Doses Aplicadas (DU)": "2.652",
+    "Total Doses Aplicadas": "17.084",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "97,15%"
+  },
+  {
+    "Município": "Ribas do Rio Pardo",
+    "Total Doses Enviadas": "27.126",
+    "Doses Aplicadas (D1)": "15.194",
+    "Doses Aplicadas (D2)": "9.015",
+    "Doses Aplicadas (D3)": "362",
+    "Doses Aplicadas (DU)": "1.281",
+    "Total Doses Aplicadas": "25.852",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "95,30%"
+  },
+  {
+    "Município": "Rio Brilhante",
+    "Total Doses Enviadas": "47.318",
+    "Doses Aplicadas (D1)": "24.924",
+    "Doses Aplicadas (D2)": "14.672",
+    "Doses Aplicadas (D3)": "545",
+    "Doses Aplicadas (DU)": "1.897",
+    "Total Doses Aplicadas": "42.038",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "88,84%"
+  },
+  {
+    "Município": "Rio Negro",
+    "Total Doses Enviadas": "6.861",
+    "Doses Aplicadas (D1)": "4.089",
+    "Doses Aplicadas (D2)": "2.582",
+    "Doses Aplicadas (D3)": "307",
+    "Doses Aplicadas (DU)": "224",
+    "Total Doses Aplicadas": "7.202",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "104,97%"
+  },
+  {
+    "Município": "Rio Verde de MT",
+    "Total Doses Enviadas": "25.175",
+    "Doses Aplicadas (D1)": "13.479",
+    "Doses Aplicadas (D2)": "8.717",
+    "Doses Aplicadas (D3)": "832",
+    "Doses Aplicadas (DU)": "1.064",
+    "Total Doses Aplicadas": "24.092",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "95,70%"
+  },
+  {
+    "Município": "Rochedo",
+    "Total Doses Enviadas": "7.336",
+    "Doses Aplicadas (D1)": "3.961",
+    "Doses Aplicadas (D2)": "2.559",
+    "Doses Aplicadas (D3)": "202",
+    "Doses Aplicadas (DU)": "264",
+    "Total Doses Aplicadas": "6.986",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "95,23%"
+  },
+  {
+    "Município": "Santa Rita do Pardo",
+    "Total Doses Enviadas": "9.429",
+    "Doses Aplicadas (D1)": "5.544",
+    "Doses Aplicadas (D2)": "3.749",
+    "Doses Aplicadas (D3)": "304",
+    "Doses Aplicadas (DU)": "428",
+    "Total Doses Aplicadas": "10.025",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "106,32%"
+  },
+  {
+    "Município": "São Gabriel do Oeste",
+    "Total Doses Enviadas": "34.640",
+    "Doses Aplicadas (D1)": "21.049",
+    "Doses Aplicadas (D2)": "12.661",
+    "Doses Aplicadas (D3)": "823",
+    "Doses Aplicadas (DU)": "1.846",
+    "Total Doses Aplicadas": "36.379",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "105,02%"
+  },
+  {
+    "Município": "Selvíria",
+    "Total Doses Enviadas": "10.740",
+    "Doses Aplicadas (D1)": "5.914",
+    "Doses Aplicadas (D2)": "3.355",
+    "Doses Aplicadas (D3)": "368",
+    "Doses Aplicadas (DU)": "348",
+    "Total Doses Aplicadas": "9.985",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "92,97%"
+  },
+  {
+    "Município": "Sete Quedas",
+    "Total Doses Enviadas": "14.411",
+    "Doses Aplicadas (D1)": "4.682",
+    "Doses Aplicadas (D2)": "4.637",
+    "Doses Aplicadas (D3)": "329",
+    "Doses Aplicadas (DU)": "4.010",
+    "Total Doses Aplicadas": "13.658",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "94,77%"
+  },
+  {
+    "Município": "Sidrolândia",
+    "Total Doses Enviadas": "61.703",
+    "Doses Aplicadas (D1)": "31.246",
+    "Doses Aplicadas (D2)": "22.399",
+    "Doses Aplicadas (D3)": "1.532",
+    "Doses Aplicadas (DU)": "2.848",
+    "Total Doses Aplicadas": "58.025",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "94,04%"
+  },
+  {
+    "Município": "Sonora",
+    "Total Doses Enviadas": "19.210",
+    "Doses Aplicadas (D1)": "10.568",
+    "Doses Aplicadas (D2)": "6.422",
+    "Doses Aplicadas (D3)": "166",
+    "Doses Aplicadas (DU)": "1.079",
+    "Total Doses Aplicadas": "18.235",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "94,92%"
+  },
+  {
+    "Município": "Tacuru",
+    "Total Doses Enviadas": "13.768",
+    "Doses Aplicadas (D1)": "6.535",
+    "Doses Aplicadas (D2)": "5.416",
+    "Doses Aplicadas (D3)": "320",
+    "Doses Aplicadas (DU)": "529",
+    "Total Doses Aplicadas": "12.800",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "92,97%"
+  },
+  {
+    "Município": "Taquarussu",
+    "Total Doses Enviadas": "4.766",
+    "Doses Aplicadas (D1)": "2.630",
+    "Doses Aplicadas (D2)": "1.787",
+    "Doses Aplicadas (D3)": "186",
+    "Doses Aplicadas (DU)": "189",
+    "Total Doses Aplicadas": "4.792",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "100,55%"
+  },
+  {
+    "Município": "Terenos",
+    "Total Doses Enviadas": "25.765",
+    "Doses Aplicadas (D1)": "13.283",
+    "Doses Aplicadas (D2)": "8.471",
+    "Doses Aplicadas (D3)": "740",
+    "Doses Aplicadas (DU)": "1.059",
+    "Total Doses Aplicadas": "23.553",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "91,41%"
+  },
+  {
+    "Município": "Três Lagoas",
+    "Total Doses Enviadas": "164.285",
+    "Doses Aplicadas (D1)": "92.444",
+    "Doses Aplicadas (D2)": "52.851",
+    "Doses Aplicadas (D3)": "3.071",
+    "Doses Aplicadas (DU)": "8.350",
+    "Total Doses Aplicadas": "156.716",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "95,39%"
+  },
+  {
+    "Município": "Vicentina",
+    "Total Doses Enviadas": "9.521",
+    "Doses Aplicadas (D1)": "5.249",
+    "Doses Aplicadas (D2)": "3.518",
+    "Doses Aplicadas (D3)": "347",
+    "Doses Aplicadas (DU)": "284",
+    "Total Doses Aplicadas": "9.398",
+    "% de Doses Aplicadas sobre Doses Enviadas (Total)": "98,71%"
+  }
+]
