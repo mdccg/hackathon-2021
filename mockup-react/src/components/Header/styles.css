@@ -1,0 +1,79 @@
+#header-poliestireno {
+  width: 100%;
+  min-height: 64px;
+}
+
+#header a,
+#header abbr {
+  text-decoration: none;
+  color: inherit;
+}
+
+#header {
+  z-index: 3;
+
+  width: 100%;
+  position: fixed;
+  box-sizing: border-box;
+
+  background-color: var(--dracula-orchid);
+
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+
+  min-height: 64px;
+}
+
+#header #logotipo {
+  padding-left:  32px;
+  padding-right: 32px;
+
+  align-items: center;
+  display: flex;
+
+  min-height: 64px;
+}
+
+#header h3,
+#header span {
+  font-family: 'Open Sans';
+  color: white;
+  font-size: 100%;
+
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+#header .header-bandeira {
+  width: 32px;
+  height: 18px;
+  border-radius: 2px;
+}
+
+#header #logotipo > h3 {
+  margin-right: 16px;
+}
+
+#header .rota.sp > span {
+  margin-left: 16px;
+  color: var(--bright-yarrow);
+}
+
+#header nav ul {
+  display: flex;
+}
+
+#header .rota {
+  padding-left:  16px;
+  padding-right: 16px;
+
+  align-items: center;
+  display: flex;
+
+  min-height: 64px;
+}
+
+#header ul > :last-child .rota {
+  padding-right: 32px;
+}

@@ -20,3 +20,9 @@
 ## Gráficos
 
 - [Pie | Chart.js](https://www.chartjs.org/docs/latest/samples/other-charts/pie.html)
+- [Vertical Bar Chart | Chart.js](https://www.chartjs.org/docs/latest/samples/bar/vertical.html)
+
+## Miscelâneas
+
+- [Online Image Vectorizer](https://www.vectorizer.io/)
+- [Adding a Google Map with a Marker to Your Website](https://developers.google.com/maps/documentation/javascript/adding-a-google-map)
